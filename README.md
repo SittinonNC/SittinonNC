@@ -13,7 +13,7 @@
 - 🌱 I’m learning **React Native & Mobile App Development**
 - 👯 I’m looking to collaborate on interesting **Open Source Projects**
 - 💬 Ask me about **Angular, Node.js, Express, SQL Server**
-- 📫 Reach me via: [Email](mailto:sittinon@email.com)
+- 📫 Reach me via: [Email](mailto:nice23615@email.com)
 
 ---
 
@@ -35,8 +35,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sittinonnc&show_icons=true&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sittinonnc&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sittinonnc&show_icons=true&count_private=false&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sittinonnc&layout=compact&theme=radical" height="165" />
 </p>
 
 ---
@@ -44,9 +44,9 @@
 ### 📫 Contact & Socials
 
 <p align="center">
-  <a href="mailto:sittinon@email.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/yourname" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/sittinon123" target="_blank"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:nice23615@email.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/Sittinon Tongsua" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/sittinonNC" target="_blank"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
