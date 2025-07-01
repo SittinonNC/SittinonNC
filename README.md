@@ -19,7 +19,15 @@
 
 ### 🚀 Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,angular,react,flutter,html,css,tailwind,bootstrap,figma,git,github,vscode,sqlite,mysql,postgres,linux" />
+  <img src="https://skillicons.dev/icons?i=nodejs,js,ts,express,react,nextjs,angular,html,css,tailwind,postman,github,vscode,figma,mysql,java" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/sqlserver-%23CC2927.svg?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Progress%20SQL-%23007ACD.svg?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shadcn/ui-%23000000.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
 ---
@@ -48,13 +56,3 @@
 > I’m a night owl 🦉 who codes better after midnight 🌙
 
 ---
-
-## ✅ วิธีใช้
-
-1. สร้าง Repository ชื่อเดียวกับ GitHub username ของคุณ เช่น `sittinon123`
-2. วางโค้ดด้านบนในไฟล์ `README.md` ที่ root ของ repo นั้น
-3. Push ขึ้น GitHub แล้วหน้าโปรไฟล์คุณจะเปลี่ยนทันที
-
----
-
-ถ้าอยากให้ปรับให้เข้ากับตัวคุณมากขึ้น เช่น เพิ่มโลโก้ Kotlin หรือเปลี่ยนคำแนะนำ ก็บอกได้เลยนะครับ จะจัดให้เฉพาะตัวคุณเลย 😊
