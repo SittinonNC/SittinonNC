@@ -1,7 +1,7 @@
 # <div align="center">🚀 Hi there, I'm Nice! 👋</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&width=600&lines=Full-Stack+Developer+💻;Node.js+%7C+Angular+%7C+React+Native;Building+Amazing+Digital+Experiences+✨;Learning+Never+Stops!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&width=600&lines=Full-Stack+Developer+💻;Node.js+%7C+Angular+%7C+Next.js;Building+Amazing+Digital+Experiences+✨;Learning+Never+Stops!+🚀" alt="Typing SVG" />
 </div>
 
 <div align="center">
