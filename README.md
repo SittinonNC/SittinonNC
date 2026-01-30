@@ -18,7 +18,7 @@
 - 🌱 Diving deep into **React Native & Mobile App Development**
 - 👯 Open to collaborate on **innovative Open Source Projects**
 - 💬 Let's talk about **Angular, Node.js, Express, SQL Server**
-- 📧 Reach out: [nice23615@email.com](mailto:nice23615@email.com)
+- 📧 Reach out: [sittinonx903@gmail.com](mailto:sittinonx903@gmail.com)
 - ⚡ Fun fact: **Night owl 🦉 who codes better after midnight 🌙**
 
 ---
